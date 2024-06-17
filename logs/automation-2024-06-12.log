@@ -1,0 +1,634 @@
+21:03:25.887 [main] TRACE - Resolving type for handle ctsheetdata8408type
+21:03:25.926 [main] TRACE - Resolving type for handle ctpagemargins5455type
+21:03:25.950 [main] TRACE - Resolving type for handle ctcols627ctype
+21:03:25.960 [main] TRACE - Resolving type for handle strelationshipid1e94type
+21:03:25.967 [main] TRACE - Resolving type for handle ctbooleanproperty1f3ctype
+21:03:25.983 [main] TRACE - Resolving type for handle ctrowdd39type
+21:03:26.013 [main] TRACE - Resolving type for handle ctcell842btype
+21:03:26.056 [main] TRACE - Resolving type for handle stcellrefe4e0type
+21:03:26.071 [main] TRACE - Resolving type for handle ctrsta472type
+21:03:26.088 [main] TRACE - Resolving type for handle stcelltypebf95type
+21:03:26.192 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+21:03:26.204 [main] TRACE - Resolving type for handle ctfonts6623type
+21:03:26.224 [main] TRACE - Resolving type for handle ctfills2c6ftype
+21:03:26.239 [main] TRACE - Resolving type for handle ctborders0d66type
+21:03:26.251 [main] TRACE - Resolving type for handle ctcellxfs1322type
+21:03:26.264 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+21:03:26.337 [main] DEBUG - Save core properties part
+21:03:26.338 [main] DEBUG - Save content types part
+21:03:26.796 [main] DEBUG - Save package relationships
+21:03:26.841 [main] DEBUG - Save part 'docProps/app.xml'
+21:03:26.859 [main] DEBUG - Save part 'docProps/core.xml'
+21:03:26.902 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:03:26.905 [main] DEBUG - Save part 'xl/styles.xml'
+21:03:26.906 [main] DEBUG - Save part 'xl/workbook.xml'
+21:03:26.916 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:03:26.936 [main] DEBUG - Save content types part
+21:03:26.943 [main] DEBUG - Save package relationships
+21:03:26.949 [main] DEBUG - Save part 'docProps/app.xml'
+21:03:26.951 [main] DEBUG - Save part 'docProps/core.xml'
+21:03:26.958 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:03:26.959 [main] DEBUG - Save part 'xl/styles.xml'
+21:03:26.961 [main] DEBUG - Save part 'xl/workbook.xml'
+21:03:26.968 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:03:30.500 [main] INFO  - **********Verify 
+21:03:56.257 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:03:56.259 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:03:56.260 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:03:56.279 [main] TRACE - Resolving type for handle themefd26doctype
+21:03:56.307 [main] TRACE - Resolving type for handle ctdxfsb26atype
+21:03:56.309 [main] TRACE - Resolving type for handle cttablestyles872ftype
+21:03:56.321 [main] TRACE - Resolving type for handle workbookec17doctype
+21:03:56.327 [main] TRACE - Resolving type for handle worksheetf539doctype
+21:03:56.336 [main] TRACE - Resolving type for handle ctcola95ftype
+21:03:56.344 [main] TRACE - Resolving type for handle cthyperlinks6416type
+21:03:56.347 [main] TRACE - Resolving type for handle cthyperlink0c85type
+21:49:33.832 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+21:49:33.842 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:49:33.843 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:49:33.845 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:49:33.846 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:49:33.851 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:49:33.875 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:49:33.877 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:49:33.885 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:49:33.888 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:49:33.890 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:49:33.892 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:49:33.893 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:49:33.896 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+21:49:34.021 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+21:49:34.025 [main] TRACE - Resolving type for handle ctworkbook83c3type
+21:49:34.139 [main] TRACE - Resolving type for handle ctworkbookpr03a5type
+21:49:34.156 [main] TRACE - Resolving type for handle ctbookviewsb864type
+21:49:34.163 [main] TRACE - Resolving type for handle ctbookviewf677type
+21:49:34.179 [main] TRACE - Resolving type for handle ctsheets49fdtype
+21:49:34.185 [main] TRACE - Resolving type for handle propertiesee84doctype
+21:49:34.190 [main] TRACE - Resolving type for handle ctproperties3f10type
+21:49:34.200 [main] TRACE - Resolving type for handle properties288cdoctype
+21:49:34.203 [main] TRACE - Resolving type for handle ctproperties2c18type
+21:49:34.214 [main] TRACE - Resolving type for handle sstf81fdoctype
+21:49:34.216 [main] TRACE - Resolving type for handle ctsst44f3type
+21:49:34.230 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+21:49:34.235 [main] TRACE - Resolving type for handle ctstylesheet4257type
+21:49:34.241 [main] TRACE - Resolving type for handle ctfont14d8type
+21:49:34.252 [main] TRACE - Resolving type for handle ctfontsizeb3b9type
+21:49:34.259 [main] TRACE - Resolving type for handle ctcolord2c2type
+21:49:34.265 [main] TRACE - Resolving type for handle ctfontname2dc3type
+21:49:34.269 [main] TRACE - Resolving type for handle stxstringf179type
+21:49:34.275 [main] TRACE - Resolving type for handle ctfontfamily685ctype
+21:49:34.280 [main] TRACE - Resolving type for handle stfontfamily9c6ctype
+21:49:34.288 [main] TRACE - Resolving type for handle ctfontschemebf5dtype
+21:49:34.294 [main] TRACE - Resolving type for handle stfontschemef36dtype
+21:49:34.302 [main] TRACE - Resolving type for handle ctfill550ctype
+21:49:34.306 [main] TRACE - Resolving type for handle ctpatternfill7452type
+21:49:34.315 [main] TRACE - Resolving type for handle stpatterntype7939type
+21:49:34.322 [main] TRACE - Resolving type for handle ctborderf935type
+21:49:34.330 [main] TRACE - Resolving type for handle ctborderpre497type
+21:49:34.341 [main] TRACE - Resolving type for handle ctxf97f7type
+21:49:34.353 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+21:49:34.357 [main] TRACE - Resolving type for handle stfontid9d63type
+21:49:34.362 [main] TRACE - Resolving type for handle stfillida097type
+21:49:34.367 [main] TRACE - Resolving type for handle stborderid1a80type
+21:49:34.371 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+21:49:34.381 [main] TRACE - Resolving type for handle ctsheet4dbetype
+21:49:34.390 [main] TRACE - Resolving type for handle ctworksheet530dtype
+21:49:34.401 [main] TRACE - Resolving type for handle ctsheetformatprdef7type
+21:49:34.414 [main] TRACE - Resolving type for handle ctsheetviewsb918type
+21:49:34.418 [main] TRACE - Resolving type for handle ctsheetview0f43type
+21:49:34.429 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+21:49:34.434 [main] TRACE - Resolving type for handle stref90a2type
+21:49:34.438 [main] TRACE - Resolving type for handle ctsheetdata8408type
+21:49:34.445 [main] TRACE - Resolving type for handle ctpagemargins5455type
+21:49:34.458 [main] TRACE - Resolving type for handle ctcols627ctype
+21:49:34.463 [main] TRACE - Resolving type for handle strelationshipid1e94type
+21:49:34.466 [main] TRACE - Resolving type for handle ctbooleanproperty1f3ctype
+21:49:34.477 [main] TRACE - Resolving type for handle ctrowdd39type
+21:49:34.494 [main] TRACE - Resolving type for handle ctcell842btype
+21:49:34.512 [main] TRACE - Resolving type for handle stcellrefe4e0type
+21:49:34.520 [main] TRACE - Resolving type for handle ctrsta472type
+21:49:34.526 [main] TRACE - Resolving type for handle stcelltypebf95type
+21:49:34.596 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+21:49:34.603 [main] TRACE - Resolving type for handle ctfonts6623type
+21:49:34.614 [main] TRACE - Resolving type for handle ctfills2c6ftype
+21:49:34.621 [main] TRACE - Resolving type for handle ctborders0d66type
+21:49:34.629 [main] TRACE - Resolving type for handle ctcellxfs1322type
+21:49:34.638 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+21:49:34.685 [main] DEBUG - Save core properties part
+21:49:34.686 [main] DEBUG - Save content types part
+21:49:34.880 [main] DEBUG - Save package relationships
+21:49:34.903 [main] DEBUG - Save part 'docProps/app.xml'
+21:49:34.913 [main] DEBUG - Save part 'docProps/core.xml'
+21:49:34.929 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:49:34.930 [main] DEBUG - Save part 'xl/styles.xml'
+21:49:34.931 [main] DEBUG - Save part 'xl/workbook.xml'
+21:49:34.937 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:49:34.944 [main] DEBUG - Save content types part
+21:49:34.949 [main] DEBUG - Save package relationships
+21:49:34.953 [main] DEBUG - Save part 'docProps/app.xml'
+21:49:34.954 [main] DEBUG - Save part 'docProps/core.xml'
+21:49:34.958 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:49:34.959 [main] DEBUG - Save part 'xl/styles.xml'
+21:49:34.960 [main] DEBUG - Save part 'xl/workbook.xml'
+21:49:34.964 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:49:38.596 [main] INFO  - ************ Navigate to travel insurance page *************** 
+21:49:39.309 [main] INFO  - ************ Click on Any destination country *************** 
+21:49:42.935 [main] INFO  - ************ click on next page to navigate date page *************** 
+21:49:43.303 [main] INFO  - ************ choose the date and click on next *************** 
+21:49:47.830 [main] INFO  - ************ Select number of traveller and age and click on next *************** 
+21:49:55.682 [main] INFO  - ************ Choose the medical history details *************** 
+21:49:56.160 [main] INFO  - ************ The plan page is visible *************** 
+21:50:02.486 [main] INFO  - ************ The premium low to hign is select *************** 
+21:50:14.027 [main] INFO  - ************ The more plan is click or not *************** 
+21:50:20.388 [main] INFO  - ************ The lowest international travel plan is displayed *************** 
+21:50:28.860 [main] DEBUG - Save core properties part
+21:50:28.861 [main] DEBUG - Save content types part
+21:50:28.863 [main] DEBUG - Save package relationships
+21:50:28.868 [main] DEBUG - Save part 'docProps/app.xml'
+21:50:28.868 [main] DEBUG - Save part 'docProps/core.xml'
+21:50:28.873 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:50:28.874 [main] DEBUG - Save part 'xl/styles.xml'
+21:50:28.875 [main] DEBUG - Save part 'xl/workbook.xml'
+21:50:28.879 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:50:28.881 [main] DEBUG - Save content types part
+21:50:28.886 [main] DEBUG - Save package relationships
+21:50:28.890 [main] DEBUG - Save part 'docProps/app.xml'
+21:50:28.890 [main] DEBUG - Save part 'docProps/core.xml'
+21:50:28.894 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:50:28.895 [main] DEBUG - Save part 'xl/styles.xml'
+21:50:28.896 [main] DEBUG - Save part 'xl/workbook.xml'
+21:50:28.899 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:50:33.111 [main] INFO  - ********** Navigate to car insurance page **************** 
+21:50:36.638 [main] INFO  - ************ Proceed without providing car number *************** 
+21:50:39.814 [main] INFO  - ************ Select city and RTO number *************** 
+21:50:46.147 [main] INFO  - ************ Select car brand *************** 
+21:50:49.339 [main] INFO  - ************ Select car model *************** 
+21:50:52.485 [main] INFO  - ************ Select car varient *************** 
+21:50:55.618 [main] INFO  - ************ Verify the user details page is displayed *************** 
+21:50:55.741 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+21:50:58.842 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:50:58.843 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:50:58.844 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:50:58.879 [main] TRACE - Resolving type for handle themefd26doctype
+21:50:58.904 [main] TRACE - Resolving type for handle ctdxfsb26atype
+21:50:58.908 [main] TRACE - Resolving type for handle cttablestyles872ftype
+21:50:58.923 [main] TRACE - Resolving type for handle workbookec17doctype
+21:50:58.928 [main] TRACE - Resolving type for handle worksheetf539doctype
+21:50:58.937 [main] TRACE - Resolving type for handle ctcola95ftype
+21:50:58.947 [main] TRACE - Resolving type for handle cthyperlinks6416type
+21:50:58.951 [main] TRACE - Resolving type for handle cthyperlink0c85type
+21:51:02.494 [main] INFO  - ************ Print the error message *************** 
+21:51:12.830 [main] DEBUG - Save core properties part
+21:51:12.831 [main] DEBUG - Save content types part
+21:51:12.834 [main] DEBUG - Save package relationships
+21:51:12.838 [main] DEBUG - Save part 'docProps/app.xml'
+21:51:12.839 [main] DEBUG - Save part 'docProps/core.xml'
+21:51:12.844 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:51:12.845 [main] DEBUG - Save part 'xl/styles.xml'
+21:51:12.845 [main] DEBUG - Save part 'xl/workbook.xml'
+21:51:12.849 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:51:12.851 [main] DEBUG - Save content types part
+21:51:12.853 [main] DEBUG - Save package relationships
+21:51:12.857 [main] DEBUG - Save part 'docProps/app.xml'
+21:51:12.858 [main] DEBUG - Save part 'docProps/core.xml'
+21:51:12.863 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:51:12.864 [main] DEBUG - Save part 'xl/styles.xml'
+21:51:12.865 [main] DEBUG - Save part 'xl/workbook.xml'
+21:51:12.868 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:51:15.633 [main] INFO  - ************  User navigate to website *************** 
+21:51:16.563 [main] INFO  - ************ Click insurance products menu *************** 
+21:51:17.297 [main] INFO  - ************ Navigate to Health insurance page *************** 
+21:51:19.398 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+21:51:19.503 [main] INFO  - ************ hover the health insurance menu *************** 
+21:51:19.726 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+21:51:19.791 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:51:19.792 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:51:19.822 [main] DEBUG - Save content types part
+21:51:19.824 [main] DEBUG - Save package relationships
+21:51:19.825 [main] DEBUG - Save part 'docProps/app.xml'
+21:51:19.826 [main] DEBUG - Save part 'docProps/core.xml'
+21:51:19.827 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:51:19.827 [main] DEBUG - Save part 'xl/styles.xml'
+21:51:19.827 [main] DEBUG - Save part 'xl/workbook.xml'
+21:51:19.828 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:51:19.949 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:51:19.950 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:51:19.983 [main] DEBUG - Save content types part
+21:51:19.986 [main] DEBUG - Save package relationships
+21:51:19.989 [main] DEBUG - Save part 'docProps/app.xml'
+21:51:19.991 [main] DEBUG - Save part 'docProps/core.xml'
+21:51:19.993 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:51:19.994 [main] DEBUG - Save part 'xl/styles.xml'
+21:51:19.995 [main] DEBUG - Save part 'xl/workbook.xml'
+21:51:19.997 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:51:20.088 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:51:20.090 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:51:20.123 [main] DEBUG - Save content types part
+21:51:20.126 [main] DEBUG - Save package relationships
+21:51:20.130 [main] DEBUG - Save part 'docProps/app.xml'
+21:51:20.131 [main] DEBUG - Save part 'docProps/core.xml'
+21:51:20.138 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:51:20.139 [main] DEBUG - Save part 'xl/styles.xml'
+21:51:20.139 [main] DEBUG - Save part 'xl/workbook.xml'
+21:51:20.142 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:51:20.341 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:51:20.342 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:51:20.365 [main] DEBUG - Save content types part
+21:51:20.367 [main] DEBUG - Save package relationships
+21:51:20.371 [main] DEBUG - Save part 'docProps/app.xml'
+21:51:20.371 [main] DEBUG - Save part 'docProps/core.xml'
+21:51:20.374 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:51:20.374 [main] DEBUG - Save part 'xl/styles.xml'
+21:51:20.374 [main] DEBUG - Save part 'xl/workbook.xml'
+21:51:20.376 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:51:20.449 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:51:20.450 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:51:20.477 [main] DEBUG - Save content types part
+21:51:20.480 [main] DEBUG - Save package relationships
+21:51:20.483 [main] DEBUG - Save part 'docProps/app.xml'
+21:51:20.483 [main] DEBUG - Save part 'docProps/core.xml'
+21:51:20.488 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:51:20.489 [main] DEBUG - Save part 'xl/styles.xml'
+21:51:20.489 [main] DEBUG - Save part 'xl/workbook.xml'
+21:51:20.491 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:51:20.564 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:51:20.566 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:51:20.605 [main] DEBUG - Save content types part
+21:51:20.607 [main] DEBUG - Save package relationships
+21:51:20.612 [main] DEBUG - Save part 'docProps/app.xml'
+21:51:20.612 [main] DEBUG - Save part 'docProps/core.xml'
+21:51:20.617 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:51:20.621 [main] DEBUG - Save part 'xl/styles.xml'
+21:51:20.622 [main] DEBUG - Save part 'xl/workbook.xml'
+21:51:20.625 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:51:20.701 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:51:20.703 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:51:20.733 [main] DEBUG - Save content types part
+21:51:20.736 [main] DEBUG - Save package relationships
+21:51:20.739 [main] DEBUG - Save part 'docProps/app.xml'
+21:51:20.740 [main] DEBUG - Save part 'docProps/core.xml'
+21:51:20.743 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:51:20.744 [main] DEBUG - Save part 'xl/styles.xml'
+21:51:20.744 [main] DEBUG - Save part 'xl/workbook.xml'
+21:51:20.747 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:51:20.828 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:51:20.829 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:51:20.859 [main] DEBUG - Save content types part
+21:51:20.862 [main] DEBUG - Save package relationships
+21:51:20.865 [main] DEBUG - Save part 'docProps/app.xml'
+21:51:20.867 [main] DEBUG - Save part 'docProps/core.xml'
+21:51:20.869 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:51:20.870 [main] DEBUG - Save part 'xl/styles.xml'
+21:51:20.871 [main] DEBUG - Save part 'xl/workbook.xml'
+21:51:20.874 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:51:20.978 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:51:20.979 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:51:21.010 [main] DEBUG - Save content types part
+21:51:21.012 [main] DEBUG - Save package relationships
+21:51:21.015 [main] DEBUG - Save part 'docProps/app.xml'
+21:51:21.016 [main] DEBUG - Save part 'docProps/core.xml'
+21:51:21.018 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:51:21.019 [main] DEBUG - Save part 'xl/styles.xml'
+21:51:21.019 [main] DEBUG - Save part 'xl/workbook.xml'
+21:51:21.022 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:51:21.098 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:51:21.100 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:51:21.133 [main] DEBUG - Save content types part
+21:51:21.136 [main] DEBUG - Save package relationships
+21:51:21.137 [main] DEBUG - Save part 'docProps/app.xml'
+21:51:21.138 [main] DEBUG - Save part 'docProps/core.xml'
+21:51:21.140 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:51:21.140 [main] DEBUG - Save part 'xl/styles.xml'
+21:51:21.141 [main] DEBUG - Save part 'xl/workbook.xml'
+21:51:21.143 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:51:21.206 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:51:21.207 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:51:21.240 [main] DEBUG - Save content types part
+21:51:21.242 [main] DEBUG - Save package relationships
+21:51:21.245 [main] DEBUG - Save part 'docProps/app.xml'
+21:51:21.245 [main] DEBUG - Save part 'docProps/core.xml'
+21:51:21.248 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:51:21.249 [main] DEBUG - Save part 'xl/styles.xml'
+21:51:21.249 [main] DEBUG - Save part 'xl/workbook.xml'
+21:51:21.251 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:51:21.326 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:51:21.327 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:51:21.362 [main] DEBUG - Save content types part
+21:51:21.365 [main] DEBUG - Save package relationships
+21:51:21.366 [main] DEBUG - Save part 'docProps/app.xml'
+21:51:21.368 [main] DEBUG - Save part 'docProps/core.xml'
+21:51:21.370 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:51:21.371 [main] DEBUG - Save part 'xl/styles.xml'
+21:51:21.371 [main] DEBUG - Save part 'xl/workbook.xml'
+21:51:21.373 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:51:21.455 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:51:21.456 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:51:21.484 [main] DEBUG - Save content types part
+21:51:21.488 [main] DEBUG - Save package relationships
+21:51:21.490 [main] DEBUG - Save part 'docProps/app.xml'
+21:51:21.490 [main] DEBUG - Save part 'docProps/core.xml'
+21:51:21.492 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+21:51:21.492 [main] DEBUG - Save part 'xl/styles.xml'
+21:51:21.493 [main] DEBUG - Save part 'xl/workbook.xml'
+21:51:21.495 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+21:55:45.647 [main] INFO  - ************ Navigate to travel insurance page *************** 
+21:55:46.193 [main] INFO  - ************ Click on Any destination country *************** 
+21:55:49.365 [main] INFO  - ************ click on next page to navigate date page *************** 
+21:55:49.658 [main] INFO  - ************ choose the date and click on next *************** 
+21:55:54.531 [main] INFO  - ************ Select number of traveller and age and click on next *************** 
+21:56:02.399 [main] INFO  - ************ Choose the medical history details *************** 
+21:56:02.769 [main] INFO  - ************ The plan page is visible *************** 
+21:56:09.052 [main] INFO  - ************ The premium low to hign is select *************** 
+21:56:20.644 [main] INFO  - ************ The more plan is click or not *************** 
+21:56:26.995 [main] INFO  - ************ The lowest international travel plan is displayed *************** 
+21:56:39.357 [main] INFO  - ********** Navigate to car insurance page **************** 
+21:56:42.807 [main] INFO  - ************ Proceed without providing car number *************** 
+21:56:46.005 [main] INFO  - ************ Select city and RTO number *************** 
+21:56:52.297 [main] INFO  - ************ Select car brand *************** 
+21:56:55.459 [main] INFO  - ************ Select car model *************** 
+21:56:58.602 [main] INFO  - ************ Select car varient *************** 
+21:57:01.723 [main] INFO  - ************ Verify the user details page is displayed *************** 
+21:57:02.002 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+21:57:08.690 [main] INFO  - ************ Print the error message *************** 
+21:57:22.193 [main] INFO  - ************  User navigate to website *************** 
+21:57:23.240 [main] INFO  - ************ Click insurance products menu *************** 
+21:57:24.052 [main] INFO  - ************ Navigate to Health insurance page *************** 
+21:57:26.300 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+21:57:26.353 [main] INFO  - ************ hover the health insurance menu *************** 
+21:57:26.606 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+22:17:04.352 [main] INFO  - ************ Navigate to travel insurance page *************** 
+22:17:04.706 [main] INFO  - ************ Click on Any destination country *************** 
+22:17:07.796 [main] INFO  - ************ click on next page to navigate date page *************** 
+22:17:07.915 [main] INFO  - ************ choose the date and click on next *************** 
+22:17:11.536 [main] INFO  - ************ Select number of traveller and age and click on next *************** 
+22:17:18.463 [main] INFO  - ************ Choose the medical history details *************** 
+22:17:18.679 [main] INFO  - ************ The plan page is visible *************** 
+22:17:24.885 [main] INFO  - ************ The premium low to hign is select *************** 
+22:17:36.238 [main] INFO  - ************ The more plan is click or not *************** 
+22:17:42.478 [main] INFO  - ************ The lowest international travel plan is displayed *************** 
+22:17:51.010 [main] INFO  - ********** Navigate to car insurance page **************** 
+22:17:54.153 [main] INFO  - ************ Proceed without providing car number *************** 
+22:17:57.230 [main] INFO  - ************ Select city and RTO number *************** 
+22:18:03.422 [main] INFO  - ************ Select car brand *************** 
+22:18:06.557 [main] INFO  - ************ Select car model *************** 
+22:18:09.640 [main] INFO  - ************ Select car varient *************** 
+22:18:12.708 [main] INFO  - ************ Verify the user details page is displayed *************** 
+22:18:12.900 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+22:18:19.331 [main] INFO  - ************ Print the error message *************** 
+22:18:30.523 [main] INFO  - ************  User navigate to website *************** 
+22:18:31.055 [main] INFO  - ************ Click insurance products menu *************** 
+22:18:31.230 [main] INFO  - ************ Navigate to Health insurance page *************** 
+22:18:32.677 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+22:18:32.730 [main] INFO  - ************ hover the health insurance menu *************** 
+22:18:32.902 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+22:22:12.468 [main] INFO  - ************ Navigate to travel insurance page *************** 
+22:22:12.839 [main] INFO  - ************ Click on Any destination country *************** 
+22:22:15.930 [main] INFO  - ************ click on next page to navigate date page *************** 
+22:22:16.064 [main] INFO  - ************ choose the date and click on next *************** 
+22:22:19.775 [main] INFO  - ************ Select number of traveller and age and click on next *************** 
+22:22:26.657 [main] INFO  - ************ Choose the medical history details *************** 
+22:22:26.892 [main] INFO  - ************ The plan page is visible *************** 
+22:22:33.067 [main] INFO  - ************ The premium low to hign is select *************** 
+22:22:44.371 [main] INFO  - ************ The more plan is click or not *************** 
+22:22:50.575 [main] INFO  - ************ The lowest international travel plan is displayed *************** 
+22:22:59.015 [main] INFO  - ********** Navigate to car insurance page **************** 
+22:23:02.127 [main] INFO  - ************ Proceed without providing car number *************** 
+22:23:05.204 [main] INFO  - ************ Select city and RTO number *************** 
+22:23:11.401 [main] INFO  - ************ Select car brand *************** 
+22:23:14.487 [main] INFO  - ************ Select car model *************** 
+22:23:17.559 [main] INFO  - ************ Select car varient *************** 
+22:23:20.632 [main] INFO  - ************ Verify the user details page is displayed *************** 
+22:23:20.723 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+22:23:27.124 [main] INFO  - ************ Print the error message *************** 
+22:23:38.166 [main] INFO  - ************  User navigate to website *************** 
+22:23:38.664 [main] INFO  - ************ Click insurance products menu *************** 
+22:23:38.864 [main] INFO  - ************ Navigate to Health insurance page *************** 
+22:23:40.120 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+22:23:40.206 [main] INFO  - ************ hover the health insurance menu *************** 
+22:23:40.368 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+22:28:37.755 [main] INFO  - ************ Navigate to travel insurance page *************** 
+22:28:38.150 [main] INFO  - ************ Click on Any destination country *************** 
+22:28:41.254 [main] INFO  - ************ click on next page to navigate date page *************** 
+22:28:41.361 [main] INFO  - ************ choose the date and click on next *************** 
+22:28:45.004 [main] INFO  - ************ Select number of traveller and age and click on next *************** 
+22:28:51.837 [main] INFO  - ************ Choose the medical history details *************** 
+22:28:52.070 [main] INFO  - ************ The plan page is visible *************** 
+22:28:58.248 [main] INFO  - ************ The premium low to hign is select *************** 
+22:29:09.590 [main] INFO  - ************ The more plan is click or not *************** 
+22:29:15.811 [main] INFO  - ************ The lowest international travel plan is displayed *************** 
+22:29:24.184 [main] INFO  - ********** Navigate to car insurance page **************** 
+22:29:27.290 [main] INFO  - ************ Proceed without providing car number *************** 
+22:29:30.364 [main] INFO  - ************ Select city and RTO number *************** 
+22:29:36.599 [main] INFO  - ************ Select car brand *************** 
+22:29:39.725 [main] INFO  - ************ Select car model *************** 
+22:29:42.828 [main] INFO  - ************ Select car varient *************** 
+22:29:45.925 [main] INFO  - ************ Verify the user details page is displayed *************** 
+22:29:54.596 [main] INFO  - ************  User navigate to website *************** 
+22:29:55.038 [main] INFO  - ************ Click insurance products menu *************** 
+22:29:55.229 [main] INFO  - ************ Navigate to Health insurance page *************** 
+22:29:56.583 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+22:29:56.615 [main] INFO  - ************ hover the health insurance menu *************** 
+22:33:07.973 [main] INFO  - ************ Navigate to travel insurance page *************** 
+22:33:08.286 [main] INFO  - ************ Click on Any destination country *************** 
+22:33:11.387 [main] INFO  - ************ click on next page to navigate date page *************** 
+22:33:11.496 [main] INFO  - ************ choose the date and click on next *************** 
+22:33:15.197 [main] INFO  - ************ Select number of traveller and age and click on next *************** 
+22:33:22.122 [main] INFO  - ************ Choose the medical history details *************** 
+22:33:22.343 [main] INFO  - ************ The plan page is visible *************** 
+22:33:28.531 [main] INFO  - ************ The premium low to hign is select *************** 
+22:33:39.884 [main] INFO  - ************ The more plan is click or not *************** 
+22:33:46.084 [main] INFO  - ************ The lowest international travel plan is displayed *************** 
+22:33:55.011 [main] INFO  - ********** Navigate to car insurance page **************** 
+22:33:58.114 [main] INFO  - ************ Proceed without providing car number *************** 
+22:34:01.191 [main] INFO  - ************ Select city and RTO number *************** 
+22:34:07.378 [main] INFO  - ************ Select car brand *************** 
+22:34:10.449 [main] INFO  - ************ Select car model *************** 
+22:34:13.519 [main] INFO  - ************ Select car varient *************** 
+22:34:16.614 [main] INFO  - ************ Verify the user details page is displayed *************** 
+22:34:16.775 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+22:34:23.251 [main] INFO  - ************ Print the error message *************** 
+22:34:35.302 [main] INFO  - ************  User navigate to website *************** 
+22:34:35.793 [main] INFO  - ************ Click insurance products menu *************** 
+22:34:35.984 [main] INFO  - ************ Navigate to Health insurance page *************** 
+22:34:37.466 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+22:34:37.518 [main] INFO  - ************ hover the health insurance menu *************** 
+22:34:37.754 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+23:37:10.209 [main] INFO  - ************ Navigate to travel insurance page *************** 
+23:37:10.514 [main] INFO  - ************ Click on Any destination country *************** 
+23:37:13.639 [main] INFO  - ************ click on next page to navigate date page *************** 
+23:37:13.783 [main] INFO  - ************ choose the date and click on next *************** 
+23:37:17.510 [main] INFO  - ************ Select number of traveller and age and click on next *************** 
+23:37:24.464 [main] INFO  - ************ Choose the medical history details *************** 
+23:37:24.744 [main] INFO  - ************ The plan page is visible *************** 
+23:37:30.928 [main] INFO  - ************ The premium low to hign is select *************** 
+23:37:42.257 [main] INFO  - ************ The more plan is click or not *************** 
+23:37:48.445 [main] INFO  - ************ The lowest international travel plan is displayed *************** 
+23:37:56.366 [main] INFO  - ********** Navigate to car insurance page **************** 
+23:37:59.483 [main] INFO  - ************ Proceed without providing car number *************** 
+23:38:02.574 [main] INFO  - ************ Select city and RTO number *************** 
+23:38:08.783 [main] INFO  - ************ Select car brand *************** 
+23:38:11.918 [main] INFO  - ************ Select car model *************** 
+23:38:14.997 [main] INFO  - ************ Select car varient *************** 
+23:38:18.077 [main] INFO  - ************ Verify the user details page is displayed *************** 
+23:38:18.194 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+23:38:24.667 [main] INFO  - ************ Print the error message *************** 
+23:38:35.726 [main] INFO  - ************  User navigate to website *************** 
+23:38:36.326 [main] INFO  - ************ Click insurance products menu *************** 
+23:38:36.523 [main] INFO  - ************ Navigate to Health insurance page *************** 
+23:38:37.904 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+23:38:37.961 [main] INFO  - ************ hover the health insurance menu *************** 
+23:38:38.124 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+13:59:20.489 [main] INFO  - ********** Navigate to car insurance page **************** 
+13:59:23.893 [main] INFO  - ************ Proceed without providing car number *************** 
+13:59:27.203 [main] INFO  - ************ Select city and RTO number *************** 
+13:59:33.617 [main] INFO  - ************ Select car brand *************** 
+13:59:36.839 [main] INFO  - ************ Select car model *************** 
+13:59:40.038 [main] INFO  - ************ Select car varient *************** 
+13:59:43.227 [main] INFO  - ************ Verify the user details page is displayed *************** 
+13:59:43.511 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+13:59:50.205 [main] INFO  - ************ Print the error message *************** 
+14:14:10.096 [main] INFO  - ************  User navigate to website *************** 
+14:14:11.389 [main] INFO  - ************ Click insurance products menu *************** 
+14:14:11.935 [main] INFO  - ************ Navigate to Health insurance page *************** 
+14:14:14.152 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+14:14:14.352 [main] INFO  - ************ hover the health insurance menu *************** 
+14:14:14.664 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+14:37:16.150 [main] INFO  - ************ Click insurance products menu *************** 
+14:37:17.485 [main] INFO  - ************ Navigate to Health insurance page *************** 
+14:37:20.329 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+14:37:20.619 [main] INFO  - ************ hover the health insurance menu *************** 
+14:37:21.100 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+14:57:39.753 [main] INFO  - ********** Navigate to car insurance page **************** 
+14:57:43.251 [main] INFO  - ************ Proceed without providing car number *************** 
+14:57:46.747 [main] INFO  - ************ Select city and RTO number *************** 
+14:57:53.315 [main] INFO  - ************ Select car brand *************** 
+14:57:56.734 [main] INFO  - ************ Select car model *************** 
+14:58:00.093 [main] INFO  - ************ Select car varient *************** 
+14:58:03.368 [main] INFO  - ************ Verify the user details page is displayed *************** 
+14:58:03.711 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+14:58:10.581 [main] INFO  - ************ Print the error message *************** 
+14:58:29.907 [main] INFO  - ************ Click insurance products menu *************** 
+14:58:31.346 [main] INFO  - ************ Navigate to Health insurance page *************** 
+14:58:34.727 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+14:58:35.077 [main] INFO  - ************ hover the health insurance menu *************** 
+14:58:35.582 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+15:01:37.686 [main] INFO  - ********** Navigate to car insurance page **************** 
+15:01:41.323 [main] INFO  - ************ Proceed without providing car number *************** 
+15:01:45.138 [main] INFO  - ************ Select city and RTO number *************** 
+15:01:51.736 [main] INFO  - ************ Select car brand *************** 
+15:01:55.066 [main] INFO  - ************ Select car model *************** 
+15:01:58.393 [main] INFO  - ************ Select car varient *************** 
+15:02:01.748 [main] INFO  - ************ Verify the user details page is displayed *************** 
+15:02:02.074 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+15:02:08.915 [main] INFO  - ************ Print the error message *************** 
+15:02:23.322 [main] INFO  - ************ Click insurance products menu *************** 
+15:02:25.070 [main] INFO  - ************ Navigate to Health insurance page *************** 
+15:02:27.643 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+15:02:28.030 [main] INFO  - ************ hover the health insurance menu *************** 
+15:02:28.492 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+15:06:10.769 [main] INFO  - ********** Navigate to car insurance page **************** 
+15:06:14.286 [main] INFO  - ************ Proceed without providing car number *************** 
+15:06:17.882 [main] INFO  - ************ Select city and RTO number *************** 
+15:06:24.418 [main] INFO  - ************ Select car brand *************** 
+15:06:27.760 [main] INFO  - ************ Select car model *************** 
+15:06:31.052 [main] INFO  - ************ Select car varient *************** 
+15:06:34.366 [main] INFO  - ************ Verify the user details page is displayed *************** 
+15:06:34.713 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+15:06:41.588 [main] INFO  - ************ Print the error message *************** 
+15:06:55.842 [main] INFO  - ************ Click insurance products menu *************** 
+15:06:56.715 [main] INFO  - ************ Navigate to Health insurance page *************** 
+15:06:59.596 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+15:06:59.923 [main] INFO  - ************ hover the health insurance menu *************** 
+15:07:00.433 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+15:17:15.455 [main] INFO  - ********** Navigate to car insurance page **************** 
+15:17:18.968 [main] INFO  - ************ Proceed without providing car number *************** 
+15:17:22.601 [main] INFO  - ************ Select city and RTO number *************** 
+15:17:29.430 [main] INFO  - ************ Select car brand *************** 
+15:17:32.794 [main] INFO  - ************ Select car model *************** 
+15:17:36.114 [main] INFO  - ************ Select car varient *************** 
+15:17:39.402 [main] INFO  - ************ Verify the user details page is displayed *************** 
+15:17:39.826 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+15:17:46.694 [main] INFO  - ************ Print the error message *************** 
+15:18:01.791 [main] INFO  - ************ Click insurance products menu *************** 
+15:18:03.027 [main] INFO  - ************ Navigate to Health insurance page *************** 
+15:18:06.627 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+15:18:06.941 [main] INFO  - ************ hover the health insurance menu *************** 
+15:18:07.352 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+15:22:37.170 [main] INFO  - ********** Navigate to car insurance page **************** 
+15:22:40.916 [main] INFO  - ************ Proceed without providing car number *************** 
+15:22:44.779 [main] INFO  - ************ Select city and RTO number *************** 
+15:22:51.485 [main] INFO  - ************ Select car brand *************** 
+15:22:54.830 [main] INFO  - ************ Select car model *************** 
+15:22:58.121 [main] INFO  - ************ Select car varient *************** 
+15:23:01.541 [main] INFO  - ************ Verify the user details page is displayed *************** 
+15:23:01.882 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+15:23:08.803 [main] INFO  - ************ Print the error message *************** 
+15:23:23.509 [main] INFO  - ************ Click insurance products menu *************** 
+15:23:24.575 [main] INFO  - ************ Navigate to Health insurance page *************** 
+15:23:27.628 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+15:23:27.955 [main] INFO  - ************ hover the health insurance menu *************** 
+15:23:28.488 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+15:31:30.451 [main] INFO  - ********** Navigate to car insurance page **************** 
+15:31:34.370 [main] INFO  - ************ Proceed without providing car number *************** 
+15:31:38.093 [main] INFO  - ************ Select city and RTO number *************** 
+15:31:44.850 [main] INFO  - ************ Select car brand *************** 
+15:31:48.265 [main] INFO  - ************ Select car model *************** 
+15:31:51.618 [main] INFO  - ************ Select car varient *************** 
+15:31:55.136 [main] INFO  - ************ Verify the user details page is displayed *************** 
+15:31:55.431 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+15:32:02.455 [main] INFO  - ************ Print the error message *************** 
+15:32:19.017 [main] INFO  - ************ Click insurance products menu *************** 
+15:32:20.438 [main] INFO  - ************ Navigate to Health insurance page *************** 
+15:32:23.138 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+15:32:23.582 [main] INFO  - ************ hover the health insurance menu *************** 
+15:32:24.034 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+15:40:49.326 [main] INFO  - ********** Navigate to car insurance page **************** 
+15:40:53.266 [main] INFO  - ************ Proceed without providing car number *************** 
+15:40:57.250 [main] INFO  - ************ Select city and RTO number *************** 
+15:41:03.845 [main] INFO  - ************ Select car brand *************** 
+15:41:07.282 [main] INFO  - ************ Select car model *************** 
+15:41:10.592 [main] INFO  - ************ Select car varient *************** 
+15:41:13.951 [main] INFO  - ************ Verify the user details page is displayed *************** 
+15:41:14.393 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+15:41:21.302 [main] INFO  - ************ Print the error message *************** 
+15:44:32.491 [main] INFO  - ********** Navigate to car insurance page **************** 
+15:44:36.080 [main] INFO  - ************ Proceed without providing car number *************** 
+15:44:39.656 [main] INFO  - ************ Select city and RTO number *************** 
+15:44:46.331 [main] INFO  - ************ Select car brand *************** 
+15:44:49.767 [main] INFO  - ************ Select car model *************** 
+15:44:53.133 [main] INFO  - ************ Select car varient *************** 
+15:44:56.501 [main] INFO  - ************ Verify the user details page is displayed *************** 
+15:44:56.917 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+15:45:03.834 [main] INFO  - ************ Print the error message *************** 
+15:49:10.238 [main] INFO  - ********** Navigate to car insurance page **************** 
+15:49:14.130 [main] INFO  - ************ Proceed without providing car number *************** 
+15:49:18.031 [main] INFO  - ************ Select city and RTO number *************** 
+15:49:24.648 [main] INFO  - ************ Select car brand *************** 
+15:49:27.954 [main] INFO  - ************ Select car model *************** 
+15:49:31.230 [main] INFO  - ************ Select car varient *************** 
+15:49:34.499 [main] INFO  - ************ Verify the user details page is displayed *************** 
+15:49:34.889 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+15:49:41.935 [main] INFO  - ************ Print the error message *************** 
+15:53:21.605 [main] INFO  - ********** Navigate to car insurance page **************** 
+15:53:25.155 [main] INFO  - ************ Proceed without providing car number *************** 
+15:53:29.083 [main] INFO  - ************ Select city and RTO number *************** 
+15:53:35.709 [main] INFO  - ************ Select car brand *************** 
+15:53:39.061 [main] INFO  - ************ Select car model *************** 
+15:53:42.344 [main] INFO  - ************ Select car varient *************** 
+15:53:45.663 [main] INFO  - ************ Verify the user details page is displayed *************** 
+15:53:46.096 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+15:53:53.133 [main] INFO  - ************ Print the error message *************** 
+15:54:08.586 [main] INFO  - ************ Click insurance products menu *************** 
+15:54:09.870 [main] INFO  - ************ Navigate to Health insurance page *************** 
+15:54:12.598 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+15:54:12.912 [main] INFO  - ************ hover the health insurance menu *************** 
+15:54:13.381 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+16:27:38.309 [main] INFO  - ********** Navigate to car insurance page **************** 
+16:27:41.628 [main] INFO  - ************ Proceed without providing car number *************** 
+16:27:44.967 [main] INFO  - ************ Select city and RTO number *************** 
+16:27:51.368 [main] INFO  - ************ Select car brand *************** 
+16:27:54.608 [main] INFO  - ************ Select car model *************** 
+16:27:57.797 [main] INFO  - ************ Select car varient *************** 
+16:28:00.982 [main] INFO  - ************ Verify the user details page is displayed *************** 
+16:28:01.329 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+16:28:07.862 [main] INFO  - ************ Print the error message *************** 
