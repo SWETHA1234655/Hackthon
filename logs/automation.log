@@ -347,3 +347,93 @@
 11:22:28.668 [main] INFO  - ************ verify the health insurance page is displayed *************** 
 11:22:30.945 [main] INFO  - ************ hover the health insurance menu *************** 
 11:22:31.345 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+14:34:15.716 [main] WARN  - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+14:35:31.406 [main] INFO  - ************ Navigate to travel insurance page *************** 
+14:35:33.968 [main] INFO  - ************ Click on Any destination country *************** 
+14:35:37.277 [main] INFO  - ************ click on next page to navigate date page *************** 
+14:35:37.629 [main] INFO  - ************ choose the date and click on next *************** 
+14:35:41.514 [main] INFO  - ************ Select number of traveller and age and click on next *************** 
+14:35:53.165 [main] INFO  - ************ Choose the medical history details *************** 
+14:35:54.662 [main] INFO  - ************ The plan page is visible *************** 
+14:36:05.053 [main] INFO  - ************ The premium low to hign is select *************** 
+14:37:42.945 [main] INFO  - ********** Navigate to car insurance page **************** 
+14:37:46.327 [main] INFO  - ************ Proceed without providing car number *************** 
+14:37:49.715 [main] INFO  - ************ Select city and RTO number *************** 
+14:37:56.293 [main] INFO  - ************ Select car brand *************** 
+14:37:59.633 [main] INFO  - ************ Select car model *************** 
+14:38:02.956 [main] INFO  - ************ Select car varient *************** 
+14:38:06.245 [main] INFO  - ************ Verify the user details page is displayed *************** 
+14:38:06.550 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+14:38:13.348 [main] INFO  - ************ Print the error message *************** 
+14:39:32.797 [main] INFO  - ************ Click insurance products menu *************** 
+14:39:33.759 [main] INFO  - ************ Navigate to Health insurance page *************** 
+14:40:03.553 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+14:40:05.918 [main] INFO  - ************ hover the health insurance menu *************** 
+14:40:06.377 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+14:55:27.063 [main] INFO  - ************ Navigate to travel insurance page *************** 
+14:55:29.646 [main] INFO  - ************ Click on Any destination country *************** 
+14:55:32.955 [main] INFO  - ************ click on next page to navigate date page *************** 
+14:55:33.237 [main] INFO  - ************ choose the date and click on next *************** 
+14:55:37.223 [main] INFO  - ************ Select number of traveller and age and click on next *************** 
+14:55:44.299 [main] INFO  - ************ Choose the medical history details *************** 
+14:55:49.119 [main] INFO  - ************ The plan page is visible *************** 
+14:55:58.507 [main] INFO  - ************ The premium low to hign is select *************** 
+14:56:48.327 [main] INFO  - ********** Navigate to car insurance page **************** 
+14:56:51.661 [main] INFO  - ************ Proceed without providing car number *************** 
+14:56:54.978 [main] INFO  - ************ Select city and RTO number *************** 
+14:57:01.320 [main] INFO  - ************ Select car brand *************** 
+14:57:04.563 [main] INFO  - ************ Select car model *************** 
+14:57:07.756 [main] INFO  - ************ Select car varient *************** 
+14:57:10.949 [main] INFO  - ************ Verify the user details page is displayed *************** 
+14:57:11.209 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+14:57:17.725 [main] INFO  - ************ Print the error message *************** 
+14:57:59.268 [main] INFO  - ************ Click insurance products menu *************** 
+14:57:59.739 [main] INFO  - ************ Navigate to Health insurance page *************** 
+14:58:29.744 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+14:58:31.975 [main] INFO  - ************ hover the health insurance menu *************** 
+14:58:32.307 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+14:59:43.833 [main] INFO  - ************ Navigate to travel insurance page *************** 
+14:59:46.473 [main] INFO  - ************ Click on Any destination country *************** 
+14:59:49.792 [main] INFO  - ************ click on next page to navigate date page *************** 
+14:59:50.119 [main] INFO  - ************ choose the date and click on next *************** 
+14:59:54.017 [main] INFO  - ************ Select number of traveller and age and click on next *************** 
+15:00:00.984 [main] INFO  - ************ Choose the medical history details *************** 
+15:00:01.387 [main] INFO  - ************ The plan page is visible *************** 
+15:00:10.726 [main] INFO  - ************ The premium low to hign is select *************** 
+15:00:29.399 [main] INFO  - ************ The lowest international travel plan is displayed *************** 
+15:01:08.601 [main] INFO  - ********** Navigate to car insurance page **************** 
+15:01:11.882 [main] INFO  - ************ Proceed without providing car number *************** 
+15:01:15.175 [main] INFO  - ************ Select city and RTO number *************** 
+15:01:21.497 [main] INFO  - ************ Select car brand *************** 
+15:01:24.754 [main] INFO  - ************ Select car model *************** 
+15:01:27.938 [main] INFO  - ************ Select car varient *************** 
+15:01:31.152 [main] INFO  - ************ Verify the user details page is displayed *************** 
+15:01:31.386 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+15:01:37.924 [main] INFO  - ************ Print the error message *************** 
+15:01:50.733 [main] INFO  - ************ Click insurance products menu *************** 
+15:01:51.224 [main] INFO  - ************ Navigate to Health insurance page *************** 
+15:01:54.016 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+15:01:56.234 [main] INFO  - ************ hover the health insurance menu *************** 
+15:01:56.550 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 
+17:33:52.799 [main] WARN  - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+17:34:36.962 [main] INFO  - ************ Navigate to travel insurance page *************** 
+17:34:43.238 [main] INFO  - ************ Click on Any destination country *************** 
+17:34:46.884 [main] INFO  - ************ click on next page to navigate date page *************** 
+17:34:47.646 [main] INFO  - ************ choose the date and click on next *************** 
+17:34:52.631 [main] INFO  - ************ Select number of traveller and age and click on next *************** 
+17:35:00.915 [main] INFO  - ************ Choose the medical history details *************** 
+17:35:01.635 [main] INFO  - ************ The plan page is visible *************** 
+17:36:07.203 [main] INFO  - ********** Navigate to car insurance page **************** 
+17:36:10.969 [main] INFO  - ************ Proceed without providing car number *************** 
+17:36:14.864 [main] INFO  - ************ Select city and RTO number *************** 
+17:36:21.750 [main] INFO  - ************ Select car brand *************** 
+17:36:25.329 [main] INFO  - ************ Select car model *************** 
+17:36:28.639 [main] INFO  - ************ Select car varient *************** 
+17:36:32.038 [main] INFO  - ************ Verify the user details page is displayed *************** 
+17:36:32.338 [main] INFO  - ************ Fill the invalid phone number or email *************** 
+17:36:39.794 [main] INFO  - ************ Print the error message *************** 
+17:37:28.206 [main] INFO  - ************ Click insurance products menu *************** 
+17:37:29.513 [main] INFO  - ************ Navigate to Health insurance page *************** 
+17:37:34.504 [main] INFO  - ************ verify the health insurance page is displayed *************** 
+17:37:36.886 [main] INFO  - ************ hover the health insurance menu *************** 
+17:37:37.506 [main] INFO  - ************ Retrieve all the sub menus successfully *************** 

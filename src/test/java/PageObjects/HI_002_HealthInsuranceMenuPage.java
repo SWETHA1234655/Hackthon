@@ -33,15 +33,9 @@ public class HI_002_HealthInsuranceMenuPage extends BasePage {
 	List<WebElement> menuItem;
 	
 	//Method to verify the health insurance page
-	public boolean verifyHealthPage() throws InterruptedException {
-		Thread.sleep(2000);	
-		if( healthMenu.isDisplayed()) {
-			return true;
-		}
-		else {
-			return false;
-		}
-	//	return healthMenu.isDisplayed();
+	public boolean verifyHealthPage() {
+		wait.until(ExpectedConditions.visibilityOf(healthMenu));
+		return healthMenu.isDisplayed();
 	}
 	
 	//Method to click the health insurance menu

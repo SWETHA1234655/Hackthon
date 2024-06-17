@@ -26,7 +26,7 @@ public class HealthInsurance {
 	}
 	
 	@Then("verify the health insurance page is displayed")
-	public void verifyHealthInsurancePageIsDisplayed() throws InterruptedException {
+	public void verifyHealthInsurancePageIsDisplayed() {
 		BaseClass.getLogger().info("************ verify the health insurance page is displayed *************** ");
 		HI_002_HealthInsuranceMenuPage mp=new HI_002_HealthInsuranceMenuPage(BaseClass.getDriver());
 		Assert.assertEquals(mp.verifyHealthPage(),true);
