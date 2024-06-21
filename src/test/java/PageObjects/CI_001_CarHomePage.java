@@ -37,7 +37,7 @@ public class CI_001_CarHomePage extends BasePage {
 	}
 	//method to click xthe new brand car
 	public void clickNewBrandCar() throws InterruptedException {
-		Thread.sleep(3000);
+		//Thread.sleep(2000);
 		wait.until(ExpectedConditions.visibilityOf(clickNewCar));
 		clickNewCar.click();
 	}

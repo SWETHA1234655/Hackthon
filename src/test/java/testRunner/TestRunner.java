@@ -1,7 +1,6 @@
 package testRunner;
 
 import org.junit.runner.RunWith;
-
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
@@ -15,6 +14,7 @@ import io.cucumber.junit.CucumberOptions;
 		
 		//Points to the directory where the feature files are located.
 		features= {".//featureFiles"},
+		//features={"@target/rerun.txt"},
 		//Specifies the package with step definition classes.
 		glue="stepDefinition",
 		//Defines various plugins for report

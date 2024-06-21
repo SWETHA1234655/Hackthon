@@ -14,7 +14,7 @@ public class CI_003_SelectCarDetails extends BasePage {
 		super(driver);
 	}
 	//Declaration of WebDriverWait
-	WebDriverWait wait=new WebDriverWait(driver,Duration.ofSeconds(10));
+	WebDriverWait wait=new WebDriverWait(driver,Duration.ofSeconds(20));
 	
 	//Locators
 	@FindBy(xpath="//div[@class='animationWrap']//ul//li[8]")
@@ -29,19 +29,19 @@ public class CI_003_SelectCarDetails extends BasePage {
 	//Actions
 	//Method to select the car brand name
 	public void selectCarBrand() throws InterruptedException {
-		Thread.sleep(3000);
+		//Thread.sleep(2000);
 		wait.until(ExpectedConditions.visibilityOf(carBrand));
 		carBrand.click();
 	}
 	//Method to select the model model
 	public void selectCarModel() throws InterruptedException {
-		Thread.sleep(3000);
+		//Thread.sleep(2000);
 		wait.until(ExpectedConditions.visibilityOf(carModel));
 		carModel.click();
 	}
 	//Method to select the car varient
 	public void selectCarVarient() throws InterruptedException {
-		Thread.sleep(3000);
+		//Thread.sleep(2000);
 		wait.until(ExpectedConditions.visibilityOf(carVarient));
 		carVarient.click();
 	}

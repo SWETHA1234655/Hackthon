@@ -15,7 +15,7 @@ public class CI_002_SelectCityAndRTOPage extends BasePage {
 	}
 	
 	//Declaration of WebDriverWait
-	WebDriverWait wait=new WebDriverWait(driver,Duration.ofSeconds(10));
+	WebDriverWait wait=new WebDriverWait(driver,Duration.ofSeconds(20));
 	
 	//Locators
 	@FindBy(xpath="//ul//li[3]")
@@ -27,13 +27,13 @@ public class CI_002_SelectCityAndRTOPage extends BasePage {
 	//Actions
 	//Method to select the city
 	public void selectCity() throws InterruptedException {
-		Thread.sleep(3000);
+		//Thread.sleep(2000);
 		wait.until(ExpectedConditions.visibilityOf(city));
 		city.click();
 	}
 	//Method to select the RTO
 	public void selectRTO() throws InterruptedException {
-		Thread.sleep(3000);
+		//Thread.sleep(2000);
 		wait.until(ExpectedConditions.visibilityOf(cityRTO));
 		cityRTO.click();
 	}

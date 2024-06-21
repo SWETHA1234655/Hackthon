@@ -68,11 +68,12 @@ public static WebDriver initilizeBrowser() throws IOException
 		        driver=null;
 			}
 		}
+	 
 	 driver.manage().deleteAllCookies(); 
+	 //Declaration of implicit wait
 	 driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 //	 driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(25));
-	 
-	 //create the excel file
+
 	 return driver;
 }
 

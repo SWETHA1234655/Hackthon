@@ -47,9 +47,11 @@ public class WriteExcel {
 	    FileOutputStream fo = new FileOutputStream(file);
 	    // Create a new Excel workbook
 	    XSSFWorkbook xb = new XSSFWorkbook();
-	    // Create a new sheet named "profile"
+	    // Create a new sheet named "Health Insurance"
 	    XSSFSheet sheet1 = xb.createSheet("Health Insurance");
+	    // Create a new sheet named "Car Insurance"
 	    XSSFSheet sheet2 = xb.createSheet("Car Insurance");
+	    // Create a new sheet named "Travel Insurance"
 	    XSSFSheet sheet3 = xb.createSheet("travel Insurance");
 	    
 	    Font font = xb.createFont();//creating
@@ -63,11 +65,14 @@ public class WriteExcel {
 	  
 	    // Create cells for "MenuItem" 
 	    XSSFCell MenuItem = rowSheet1.createCell(0);
+	    // Create cells for "error" 
 	    XSSFCell error = rowSheet2.createCell(0);
-	    
+	    // Create cells for "plan" 
 	    XSSFCell plan=rowSheet3.createCell(0);
+	    // Create cells for "price" 
 	    XSSFCell price=rowSheet3.createCell(1);
 	   
+	    //Set the cell values
 	    MenuItem.setCellValue("HC_MenuLists");
 	    MenuItem.setCellStyle(style);
 	    

@@ -18,7 +18,8 @@ public class CI_004_UserDetailsPage extends BasePage {
 	public CI_004_UserDetailsPage(WebDriver driver) {
 		super(driver);
 	}
-	WebDriverWait wait=new WebDriverWait(driver,Duration.ofSeconds(10));
+	//Declaration of web driver wait
+	WebDriverWait wait=new WebDriverWait(driver,Duration.ofSeconds(20));
 	
 	//Locators
 	@FindBy(xpath="//input[@placeholder='Full name']")
@@ -46,7 +47,7 @@ public class CI_004_UserDetailsPage extends BasePage {
 	}
 	//Method to set the user name
 	public void setName() throws InterruptedException {
-		Thread.sleep(3000);
+		Thread.sleep(2000);
 		wait.until(ExpectedConditions.visibilityOf(f_name));
 		f_name.sendKeys(DataReader.Name);
 	}
@@ -64,8 +65,6 @@ public class CI_004_UserDetailsPage extends BasePage {
 	//Method to get the error message
 	public String getErrorMsg() throws IOException {
 		wait.until(ExpectedConditions.visibilityOf(errormsg));
-		//String errorM=errormsg.getText();
-		//WriteExcel.setCellData("Car Insurance", 1, 0, errorM);
 		return errormsg.getText();
 		
 		
